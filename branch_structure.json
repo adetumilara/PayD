@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/mainnet-observability-reliability",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/mainnet-observability-reliability": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/mainnet-observability-reliability",
+    "origin"
+  ]
+}
